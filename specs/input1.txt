@@ -4,4 +4,4 @@ A->B
 B->C:>Trevor# Branch 1
 B->D:<=Trevor# Branch 2
 D->E
-E->B
+E->
