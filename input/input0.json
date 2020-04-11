@@ -9,8 +9,12 @@
 	},
 	"b": 
 	{ 
-		"c": ">Trevor",
-		"d": "<=Trevor"
+		"c": ">trevor",
+		"d": "<=trevor"
+	},
+	"c":
+	{
+		"e": true
 	},
 	"d":
 	{
