@@ -1,0 +1,54 @@
+{
+	"":
+	{ 
+		"a": true,
+		"b": true,
+		"c": true
+	},
+	"a":
+	{ 
+		"d": true 
+	},
+	"b": 
+	{ 
+		"e": true
+	},
+	"c":
+	{
+		"f": true
+	},
+	"d":
+	{
+		"g": true,
+		"h": true,
+		"i": true
+	},
+	"e":
+	{
+		"g": true,
+		"h": true,
+		"i": true
+	},
+	"f":
+	{
+		"g": true,
+		"h": true,
+		"i": true
+	},
+	"g":
+	{
+		"j": true
+	},
+	"h":
+	{
+		"j": true
+	},
+	"i":
+	{
+		"j": true
+	},
+	"j":
+	{
+		"": true
+	}
+}
