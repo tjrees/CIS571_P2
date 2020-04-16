@@ -100,7 +100,6 @@ function invokeService(state)
 			for(var i = 0; i < errors.length; i++) {
 				text += '<p class="error">' + errors[i].message + '</p>';
 			}
-			document.getElementById('state_content').innerHTML = '';
 			document.getElementById('response_data').innerHTML = '';
 			document.getElementById("error_messages").innerHTML = text;
 		}
