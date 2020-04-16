@@ -40,7 +40,7 @@ function apiHandler(username)
 	var dateObj = new Date();
 
 	var date = ('0' + dateObj.getDate()).slice(-2);
-	var month = ('0' + dateObj.getMonth()).slice(-2);
+	var month = ('0' + dateObj.getMonth() + 1).slice(-2);
 	var year = dateObj.getFullYear();
 	var hours = ('0' + dateObj.getHours()).slice(-2);
 	var minutes = ('0' + dateObj.getMinutes()).slice(-2);
